@@ -12,6 +12,10 @@
   --color-text-secondary: hsl(220, 20%, 65%);
   --color-text-muted: hsl(220, 15%, 42%);
   --color-success: hsl(145, 65%, 50%);
+  --color-amber: hsl(38, 95%, 55%);
+  --color-red: hsl(0, 75%, 55%);
+  --color-bg-image: hsl(225, 38%, 8%);
+  --color-border-bright: hsl(190, 60%, 35%);
   --font-sans: var(--font-space-grotesk);
   --font-mono: var(--font-space-mono);
   --animate-fade-up: fade-up 0.6s ease forwards;
