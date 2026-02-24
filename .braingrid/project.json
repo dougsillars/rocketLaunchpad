@@ -1,0 +1,15 @@
+{
+  "organization_id": "5c2542c2-1cfa-43de-beeb-88f327124468",
+  "project_id": "bdcb5426-daf4-4503-89a6-99f06e1f68da",
+  "project_short_id": "PROJ-7",
+  "project_name": "Launchpad",
+  "project_description": "I want to build a site where you can see upcoming rocket launches and you can filter by location Vandenburg, kennedy, Kazakhstan, etc and who's launch it is SpaceX, use Launch Library 2 (TheSpaceDevs)",
+  "repository": {
+    "id": "edf0546b-e42e-4580-8a18-9a1b2f4fbee4",
+    "owner": "dougsillars",
+    "name": "rocketLaunchpad",
+    "full_name": "dougsillars/rocketLaunchpad",
+    "url": "https://github.com/dougsillars/rocketLaunchpad.git"
+  },
+  "created_at": "2026-02-24T19:56:19.502Z"
+}
